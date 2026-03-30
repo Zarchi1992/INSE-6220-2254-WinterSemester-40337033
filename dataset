@@ -1,0 +1,12 @@
+## Dataset
+
+This project uses the NSL-KDD dataset for network intrusion detection.
+
+Dataset source:
+https://www.kaggle.com/datasets/hassan06/nslkdd
+
+Files used:
+- KDDTrain+.txt
+- KDDTest+.txt
+
+The dataset is loaded directly from Kaggle using the Kaggle API in Google Colab.
