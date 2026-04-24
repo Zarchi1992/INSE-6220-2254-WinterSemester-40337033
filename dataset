@@ -10,5 +10,5 @@ Files used:
 - KDDTest+.txt
 
 The dataset is loaded directly in Google Colab using the Kaggle API.
-Due to size and licensing considerations, the raw dataset is not stored in this repository.
 
+Also uploaded train and test data as txt file in branch
