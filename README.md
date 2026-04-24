@@ -26,10 +26,10 @@ This project applies Principal Component Analysis (PCA) to the NSL-KDD network i
 6. Cross-validation analysis
 
 ## Notebooks
-- `01_EDA_NSLKDD.ipynb`
+- `INSE6220_Project_NSL_KDD.ipynb`
 
 ## Results
-Random Forest achieved the best overall performance with high F1-score and low variance across folds.
+Extra Tree achieved the best overall performance with high F1-score and low variance across folds.
 
 ## Tools
 - Python
